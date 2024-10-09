@@ -6,5 +6,5 @@ Apprentissage commande Bash (et Zsh).
 
 ## Mercredi 2 Oct
 
-création d'un compte github,
+création d'un compte github  
 apprentissage des premières commandes de base.
