@@ -1,2 +1,2 @@
-# PPE1-2024
+# PPE1-24
 Programmation et Projet Encadré 1
