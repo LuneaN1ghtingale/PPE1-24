@@ -17,6 +17,5 @@ Abandon des exercices Pipelines.
 Exercices Git error
 
 
-ejrfiezjfoezfdfihfez^fzà
 
 ligne à conserver après.
