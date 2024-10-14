@@ -1,4 +1,4 @@
-ejrfiezjfoezfdfihfez^fzà
+
 # Journal de bord du projet encadré
 
 ## Mercredi 25 Sept
@@ -15,3 +15,8 @@ apprentissage des premières commandes de base.
 Abandon des exercices Pipelines.
 +
 Exercices Git error
+
+
+ejrfiezjfoezfdfihfez^fzà
+
+ligne à conserver après.
