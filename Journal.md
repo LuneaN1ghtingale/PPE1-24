@@ -16,6 +16,4 @@ Abandon des exercices Pipelines.
 +
 Exercices Git error
 
-
-
-ligne à conserver après.
+Correction : conflit lors des exos git error (git rever abort)
