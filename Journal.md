@@ -17,3 +17,7 @@ Abandon des exercices Pipelines.
 Exercices Git error
 
 Correction : conflit lors des exos git error (git rever abort)
+
+## Mercredi 30
+Rédaction de scipte Bash en suivant les exercices. (Pas tenté, trop peur de faire tout planter).
+
